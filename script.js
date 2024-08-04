@@ -1,4 +1,6 @@
 // script.js
+const dayjs = require('dayjs');
+
 function read(id, url) {
     fetch(url)
     .then(response => {
