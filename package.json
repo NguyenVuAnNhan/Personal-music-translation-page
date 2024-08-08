@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "dayjs": "^1.11.12"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.8"
   }
 }
