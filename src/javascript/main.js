@@ -31,6 +31,6 @@ function read(id, url) {
 }
 
 function display(name){
-    read('original', 'songs/' + name + '/Original.txt'); 
-    read('translation', 'songs/' + name + '/Translation.txt')
+    read('original', 'assets/songs/' + name + '/Original.txt'); 
+    read('translation', 'assets/songs/' + name + '/Translation.txt')
 }
